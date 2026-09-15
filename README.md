@@ -244,7 +244,7 @@ a sequence of three git commands:
 
 - [X] Once you execute these commands, you can check your GitHub repository to confirm that the changes have been made there.
 
-- [ ] Repeat the above steps for `README.md` (or try using the approach below).
+- [X] Repeat the above steps for `README.md` (or try using the approach below).
 
 > Tip: You can also use IntelliJ to execute these same steps using the graphical user interface it provides.
 If you have followed the software installation instructions, you should see `Git` in the menu bar at the top.
@@ -316,7 +316,7 @@ through readings and coding exercises over the next few weeks.
 
 ### Task 3.3 Push your latest changes
 
-- [ ] Now that you've made some more changes to your repository, you should repeat the add, commit, and push process
+- [X] Now that you've made some more changes to your repository, you should repeat the add, commit, and push process
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message!
 
 ### Task 3.4 Pulling changes from GitHub
